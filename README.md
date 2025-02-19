@@ -1,1 +1,1 @@
-# discordbot_2024
+# discord_bot2024
